@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset>
+  <url>
+    <loc>https://ssz-lip.ru/</loc>
+    <lastmod>2018-01-31T12:40:41+03:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://ssz-lip.ru/index.php</loc>
+    <lastmod>2018-01-31T12:40:41+03:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ssz-lip.ru/services.php</loc>
+    <lastmod>2018-01-31T12:40:41+03:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ssz-lip.ru/news.php</loc>
+    <lastmod>2018-01-31T12:40:41+03:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ssz-lip.ru/about.php</loc>
+    <lastmod>2018-01-31T12:40:41+03:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://ssz-lip.ru/contacts.php</loc>
+    <lastmod>2018-01-31T12:40:41+03:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>
