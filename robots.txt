@@ -1,0 +1,11 @@
+User-agent: *
+Host: https://ssz-lip.ru
+
+Allow: /
+Allow: *.css
+
+Disallow: /fonts/
+Disallow: /video/
+Disallow: /backup/
+
+Sitemap: https://ssz-lip.ru/sitemap.xml
